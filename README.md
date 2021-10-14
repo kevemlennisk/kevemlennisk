@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevem</h1>
-<h3 align="center">A full stack, backend-focused developer transitioning to mobile development</h3>
+<h3 align="center">A full stack developer transitioning to mobile development</h3>
 
 - 🔭 I’m currently working on [Android Jetpack](https://developer.android.com/jetpack)
 
